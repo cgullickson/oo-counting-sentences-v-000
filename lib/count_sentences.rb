@@ -19,4 +19,3 @@ class String
     array.delete_if {|w| w == ""}
     array.count
   end
-end
