@@ -17,6 +17,5 @@ class String
   def count_sentences
     binding.pry
     self.split("."||"?"||"!")
-    return self.size
   end
 end
